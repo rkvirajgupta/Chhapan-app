@@ -12,7 +12,7 @@ https://chappan-app.netlify.app/
 
 ### Team Member
 
-- **[Viraj Gupta]**
+- - **[Viraj Gupta](https://github.com/rkvirajgupta/)**
 
 ---
 
