@@ -16,8 +16,6 @@ https://chappan-app.netlify.app/
 
 ---
 
----
-
 ## Tech Stack Used : -
 
 <li>React</li>
